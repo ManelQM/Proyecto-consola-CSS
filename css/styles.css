@@ -38,6 +38,16 @@ body {
 
 }
 
+.contenedorcruceta {
+
+    height: 26em;
+    width: 18em;
+    background-color: tomato;
+
+}
+
+
+
 .centro {
 
     height: 30em;
