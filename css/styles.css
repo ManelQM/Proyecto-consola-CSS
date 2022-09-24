@@ -119,8 +119,8 @@ body {
     background-color: rgb(155, 97, 21);
     display: flex;
     flex-direction: row;
-    justify-content: baseline;
-    align-items: baseline;
+    /*justify-content: baseline;
+    align-items: baseline;*/
 
 }
 
@@ -144,13 +144,12 @@ body {
     
 }
 
-.crucetamidcirculo {
+.crucetamidmidcirculo {
 
     height: 3.3em;
     width: 3.3em;
-    
-
-
+    background-color: grey;
+    border-radius: 50%;
 }
 
 
