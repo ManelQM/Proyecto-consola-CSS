@@ -75,11 +75,56 @@ body {
     background-color: white;
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    
+    justify-content: baseline;
+    align-items: baseline;
+
 }
 
+.crucetaup{
+    height: 4.3em;
+    width: 13em;
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: row;
+    justify-content: baseline;
+    align-items: baseline;
+
+}
+
+.crucetaupizq {
+    height: 4.3em;
+    width: 4.3em;
+    background-color: white;
+}
+
+
+.crucetaupmid {
+    height: 4.3em;
+    width: 4.3em;
+    background-color: black;
+
+}
+
+.crucetaupder {
+    height: 4.3em;
+    width: 4.3em;
+    background-color: white;
+
+}
+
+.crucetamid {
+
+height: 4.3em;
+    width: 13em;
+    background-color: rgb(155, 97, 21);
+}
+
+.crucetadown {
+    height: 4.3em;
+    width: 13em;
+    background-color: rgb(215, 250, 222);
+
+}
 
 .centro {
 
