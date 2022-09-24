@@ -399,7 +399,20 @@ body {
 
     height: 4em;
     width: 5.3em;
-    background-color: #161cbd;
+    background-color: grey;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.botonazul {
+
+    height: 4em;
+    width: 4em;
+    background-color: blue;
+    border-radius: 50%;
 
 }
 
@@ -407,7 +420,7 @@ body {
 
     height: 4em;
     width: 5.3em;
-    background-color: #b2b4b2;
+    background-color: grey;
 
 }
 
@@ -427,8 +440,21 @@ body {
 
     height: 4em;
     width: 5.3em;
-    background-color: #34b710;
+    background-color: grey;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
 
+
+}
+
+.botonverde {
+
+    height: 4em;
+    width: 4em;
+    background-color: green;
+    border-radius: 50%;
 
 }
 
@@ -444,8 +470,22 @@ body {
 
     height: 4em;
     width: 5.3em;
-    background-color: #f21616;
+    background-color: grey;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
     
+}
+
+.botonrojo {
+
+    height: 4em;
+    width: 4em;
+    background-color: red;
+    border-radius: 50%;
+
+
 }
 
 .subContenedorBotonoesDown {
@@ -455,7 +495,42 @@ body {
     background-color: sandybrown;
     display: flex;
     flex-direction: row;
-    justify-content: baseline;
-    align-items: baseline;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.subContenedorBotonoesDownIzq {
+
+    height: 4em;
+    width: 16em;
+    background-color: grey;
+}
+
+.subContenedorBotonoesDownMid {
+
+    height: 4em;
+    width: 16em;
+    background-color: grey;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.botonamarillo {
+
+height: 4em;
+width: 4em;
+background-color: yellow;
+border-radius: 50%;
+
+}
+
+.subContenedorBotonoesDownDer {
+
+    height: 4em;
+    width: 16em;
+    background-color: grey;
 
 }
