@@ -333,7 +333,7 @@ body {
 
     height: 30em;
     width: 21em;
-    background-color: burlywood;
+    background-color: lightgray;
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -345,23 +345,28 @@ body {
 
     height: 27em;
     width: 19em;
-    background-color: cornflowerblue;
+    background-color: lightgray;
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    z-index: 100%;
+    
+   
 
 }
 
 .circulocontenedorbotones {
-
-    height: 24em;
-    width: 17em;
-    background-color: rgb(100, 237, 132);
+    
+    height: 22em;
+    width: 33em;
+    background-color:grey;
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    border-radius: 50%;
+    z-index: 100%;
 
 }
 
@@ -369,30 +374,31 @@ body {
    
     height: 12em;
     width: 16em;
-    background-color: rgb(104, 95, 160);
+    background-color: grey;
     display: flex;
     flex-direction: column;
     justify-content: baseline;
     align-items: baseline;
-    
+    z-index: 100%;
 }
 .subContenedorBotonoesUp {
     
     height: 4em;
     width: 16em;
-    background-color: yellowgreen;
+    background-color: grey;
     display: flex;
     flex-direction: row;
     justify-content: baseline;
     align-items: baseline;
+    z-index: 100%;
 
 }
 
 .subContenedorBotonoesUpIzq {
     height: 4em;
     width: 5.3em;
-    background-color: grey;
-
+    background-color:grey;
+    
 }
 
 .subContenedorBotonoesUpMid {
@@ -428,7 +434,7 @@ body {
     
     height: 4em;
     width: 16em;
-    background-color:crimson;
+    background-color:grey;
     display: flex;
     flex-direction: row;
     justify-content: baseline;
