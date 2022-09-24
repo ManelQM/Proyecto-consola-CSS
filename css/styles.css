@@ -365,11 +365,49 @@ body {
 
 }
 
-.subContenedorBotones{
-    height: 16em;
-    width: 10em;
+.subContenedorBotones {
+   
+    height: 12em;
+    width: 16em;
     background-color: rgb(104, 95, 160);
+    display: flex;
+    flex-direction: column;
+    justify-content: baseline;
+    align-items: baseline;
     
+}
+.subContenedorBotonoesUp {
+    
+    height: 4em;
+    width: 16em;
+    background-color: yellowgreen;
+    display: flex;
+    flex-direction: row;
+    justify-content: baseline;
+    align-items: baseline;
 
+}
+
+.subContenedorBotonoesMid {
+    
+    height: 4em;
+    width: 16em;
+    background-color:crimson;
+    display: flex;
+    flex-direction: row;
+    justify-content: baseline;
+    align-items: baseline;
+
+}
+
+.subContenedorBotonoesDown {
+    
+    height: 4em;
+    width: 16em;
+    background-color: sandybrown;
+    display: flex;
+    flex-direction: row;
+    justify-content: baseline;
+    align-items: baseline;
 
 }
