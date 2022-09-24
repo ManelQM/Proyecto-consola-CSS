@@ -35,6 +35,10 @@ body {
     height: 30em;
     width: 21em;
     background-color: darkgray;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 
 }
 
@@ -43,9 +47,21 @@ body {
     height: 26em;
     width: 18em;
     background-color: tomato;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 
 }
 
+.circulocruceta {
+
+    height: 16em;
+    width: 16em;
+    background-color: bisque;
+    /*border-radius: 50%;*/
+   
+}
 
 
 .centro {
