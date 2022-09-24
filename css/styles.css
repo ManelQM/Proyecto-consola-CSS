@@ -118,7 +118,7 @@ body {
 
     height: 4.3em;
     width: 13em;
-    background-color: rgb(155, 97, 21);
+    background-color: lightgrey;
     display: flex;
     flex-direction: row;
     /*justify-content: baseline;
@@ -166,7 +166,7 @@ body {
     
     height: 4.3em;
     width: 13em;
-    background-color: rgb(215, 250, 222);
+    background-color: lightgrey;
     display: flex;
     flex-direction: row;
     justify-content: baseline;
@@ -198,39 +198,43 @@ body {
 
 .centro {
 
-    height: 30em;
+    height: 27em;
     width: 18em;
-    /* background-color: palevioletred; */
+     background-color: lightgrey; 
+     margin-bottom: 3em;
+    
 
 }
 
 .centroCentral {
     height: 25em;
     width: 18em;
-    /* background-color: darkorange; */
+    background-color: lightgrey; 
 }
 
 .centroCentralUp {
     height: 7em;
     width: 18em;
-    background-color: 	#b2b4b2;
+    background-color: 	lightgrey;
 
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: flex-end;
     justify-content: center;
+    
 }
 
 .logoImagen {
     height: 5em;
     z-index: 100;
+    margin-top: 5em;
     
 }
 
 .centroCentralMid {
     height: 9em;
     width: 18em;
-    background-color: 	#b2b4b2;
+    background-color: 	lightgrey;
 }
 
 .centroCentralDown {
@@ -260,7 +264,7 @@ body {
 
 .centroBotoneraArribaIzquierda{
     width: 9em;
-    background-color: yellow;
+    background-color:lightgrey ;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -284,7 +288,7 @@ body {
 
 .centroBotoneraArribaDerecha{
     width: 9em;
-    background-color: red;
+    background-color: lightgrey;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -306,7 +310,7 @@ body {
 
 .centroBotoneraAbajoIzquierda{
     width: 9em;
-    background-color: purple;
+    background-color: lightgrey;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -319,19 +323,19 @@ body {
 
     width: 7em;
     height: 6em;
-    background-color: red;
+    background-color: lightgrey;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     font-style: italic;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 
 }
 
 .centroBotoneraAbajoDerecha{
     width: 9em;
-    background-color: black;
+    background-color: lightgrey;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -343,7 +347,7 @@ body {
 
     width: 7em;
     height: 6em;
-    background-color: rgb(0, 255, 132);
+    background-color: lightgrey;
     display: flex;
     flex-direction: column;
     justify-content: center;
