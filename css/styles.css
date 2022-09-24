@@ -114,16 +114,86 @@ body {
 
 .crucetamid {
 
-height: 4.3em;
+    height: 4.3em;
     width: 13em;
     background-color: rgb(155, 97, 21);
+    display: flex;
+    flex-direction: row;
+    justify-content: baseline;
+    align-items: baseline;
+
+}
+
+.crucetamidizq {
+
+    height: 4.3em;
+    width: 4.3em;
+    background-color: black;
+
+}
+
+.crucetamidmid {
+
+    height: 4.3em;
+    width: 4.3em;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.crucetamidcirculo {
+
+    height: 3.3em;
+    width: 3.3em;
+    
+
+
+}
+
+
+
+.crucetamidder {
+
+    height: 4.3em;
+    width: 4.3em;
+    background-color: black
 }
 
 .crucetadown {
+    
     height: 4.3em;
     width: 13em;
     background-color: rgb(215, 250, 222);
+    display: flex;
+    flex-direction: row;
+    justify-content: baseline;
+    align-items: baseline;
 
+}
+
+.crucetadownizq {
+    
+    height: 4.3em;
+    width: 4.3em;
+    background-color: white;
+
+}
+.crucetadownmid {
+
+    height: 4.3em;
+    width: 4.3em;
+    background-color:black;
+
+}
+
+.crucetadownder {
+
+    height: 4.3em;
+    width: 4.3em;
+    background-color: white;
 }
 
 .centro {
