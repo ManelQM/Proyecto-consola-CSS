@@ -391,7 +391,7 @@ body {
 .subContenedorBotonoesUpIzq {
     height: 4em;
     width: 5.3em;
-    background-color: #b2b4b2;
+    background-color: grey;
 
 }
 
@@ -462,7 +462,7 @@ body {
 
     height: 4em;
     width: 5.3em;
-    background-color: #b2b4b2;
+    background-color: grey;
 
 }
 
@@ -475,6 +475,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
+    
     
 }
 
@@ -492,7 +493,7 @@ body {
     
     height: 4em;
     width: 16em;
-    background-color: sandybrown;
+    background-color: grey;
     display: flex;
     flex-direction: row;
     justify-content: center;
