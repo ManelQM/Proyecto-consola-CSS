@@ -364,3 +364,12 @@ body {
     align-items: center;
 
 }
+
+.subContenedorBotones{
+    height: 16em;
+    width: 10em;
+    background-color: rgb(104, 95, 160);
+    
+
+
+}
