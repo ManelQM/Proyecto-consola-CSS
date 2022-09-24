@@ -388,6 +388,29 @@ body {
 
 }
 
+.subContenedorBotonoesUpIzq {
+    height: 4em;
+    width: 5.3em;
+    background-color: #b2b4b2;
+
+}
+
+.subContenedorBotonoesUpMid {
+
+    height: 4em;
+    width: 5.3em;
+    background-color: #161cbd;
+
+}
+
+.subContenedorBotonoesUpDer {
+
+    height: 4em;
+    width: 5.3em;
+    background-color: #b2b4b2;
+
+}
+
 .subContenedorBotonoesMid {
     
     height: 4em;
@@ -398,6 +421,31 @@ body {
     justify-content: baseline;
     align-items: baseline;
 
+}
+
+.subContenedorBotonoesMidIzq {
+
+    height: 4em;
+    width: 5.3em;
+    background-color: #34b710;
+
+
+}
+
+.subContenedorBotonoesMidMid {
+
+    height: 4em;
+    width: 5.3em;
+    background-color: #b2b4b2;
+
+}
+
+.subContenedorBotonoesMidDer {
+
+    height: 4em;
+    width: 5.3em;
+    background-color: #f21616;
+    
 }
 
 .subContenedorBotonoesDown {
