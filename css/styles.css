@@ -153,7 +153,6 @@ body {
 }
 
 
-
 .crucetamidder {
 
     height: 4.3em;
@@ -334,6 +333,34 @@ body {
 
     height: 30em;
     width: 21em;
-    background-color: burlywood
+    background-color: burlywood;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.contenedorbotones {
+
+    height: 27em;
+    width: 19em;
+    background-color: cornflowerblue;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.circulocontenedorbotones {
+
+    height: 24em;
+    width: 17em;
+    background-color: rgb(100, 237, 132);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 
 }
