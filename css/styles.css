@@ -270,9 +270,14 @@ body {
 }
 
 .botonselect {
-    background-color: bisque;
-    width: 8em;
-    height: 4em;
+    background-color: grey;
+    width: 6em;
+    height: 2em;
+    border-top-left-radius: 40%;
+    border-bottom-left-radius: 40%;
+    border-top-right-radius: 40%;
+    border-bottom-right-radius:40% ;
+    transform: rotate(140deg);
 
 
 }
@@ -283,14 +288,19 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start;
 
 }
 
 .botonstart {
-    background-color: rgb(190, 110, 12);
-    width: 8em;
-    height: 4em;
+    background-color: grey;
+    width: 6em;
+    height: 2em;
+    border-top-left-radius: 40%;
+    border-bottom-left-radius: 40%;
+    border-top-right-radius: 40%;
+    border-bottom-right-radius:40% ;
+    transform: rotate(140deg);
 
 }
 
