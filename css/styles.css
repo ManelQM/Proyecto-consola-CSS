@@ -32,14 +32,14 @@ body {
 
 .izquierda {
 
-    height: 27em;
-    width: 50em;
+    height: 22em;
+    width: 45em;
     background-color: lightgrey;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-     border-radius:  35% 0% 10% 35%; 
+     border-radius:  55% 0% 55% 55%; 
      margin-left: -2em;
 
 }
@@ -362,14 +362,14 @@ body {
 
 .derecha {
 
-    height: 27em;
-    width: 50em;
+    height: 22em;
+    width: 45em;
     background-color: lightgray;
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    border-radius:  0% 35% 35% 10%; 
+    border-radius:  0% 55% 55% 55%; 
     margin-left: -2em;
 
 
@@ -392,7 +392,7 @@ body {
 
 .circulocontenedorbotones {
     
-    height: 22em;
+    height: 20em;
     width: 33em;
     background-color:grey;
     display: flex;
@@ -419,19 +419,19 @@ body {
     
     height: 4em;
     width: 16em;
-    background-color: grey;
+    
     display: flex;
     flex-direction: row;
     justify-content: baseline;
     align-items: baseline;
-    z-index: 100%;
+    
 
 }
 
 .subContenedorBotonoesUpIzq {
     height: 4em;
     width: 5.3em;
-    background-color:grey;
+  
     
 }
 
@@ -439,7 +439,7 @@ body {
 
     height: 4em;
     width: 5.3em;
-    background-color: grey;
+  
     display: flex;
     flex-direction: column;
     justify-content: center;
