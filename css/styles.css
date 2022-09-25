@@ -39,7 +39,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    border-radius:  70% 0% 70% 70%; 
+    border-radius:  100% 0% 100% 100%; 
     margin-right: -3em;
     
 
@@ -374,7 +374,7 @@ body {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    border-radius:  0% 70% 70% 70%; 
+    border-radius:  0% 100% 100% 100%; 
     margin-left: -3em;
 
 
