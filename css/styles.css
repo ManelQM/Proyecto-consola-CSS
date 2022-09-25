@@ -39,7 +39,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    border-radius:  55% 0% 55% 55%; 
+    border-radius:  70% 0% 70% 70%; 
     margin-right: -3em;
     
 
@@ -240,6 +240,10 @@ body {
     height: 9em;
     width: 18em;
     background-color: 	lightgrey;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .centroCentralDown {
@@ -371,7 +375,7 @@ body {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    border-radius:  0% 55% 55% 55%; 
+    border-radius:  0% 70% 70% 70%; 
     margin-left: -3em;
 
 
