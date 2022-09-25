@@ -212,7 +212,7 @@ body {
 }
 
 .centroCentral {
-    height: 25em;
+    height: 17em;
     width: 18em;
     background-color: lightgrey; 
 }
@@ -284,8 +284,8 @@ body {
 
 .botonselect {
     background-color: grey;
-    width: 6em;
-    height: 2em;
+    width: 4em;
+    height: 1em;
     border-top-left-radius: 40%;
     border-bottom-left-radius: 40%;
     border-top-right-radius: 40%;
@@ -307,8 +307,8 @@ body {
 
 .botonstart {
     background-color: grey;
-    width: 6em;
-    height: 2em;
+    width: 4em;
+    height: 1em;
     border-top-left-radius: 40%;
     border-bottom-left-radius: 40%;
     border-top-right-radius: 40%;
