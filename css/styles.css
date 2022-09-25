@@ -16,6 +16,10 @@ body {
 
 }
 
+
+
+
+
 .contenedorl1{ 
 
     height: 1em;
@@ -25,12 +29,12 @@ body {
     justify-content: center;
     align-items: center;
     margin-left: -25em;
-    margin-bottom: 3em;
+    margin-bottom: -1em;
     border-radius: 2em 0em 0em 0em;
 }
 
 
-.contenedorr1 {
+.contenedorR1 {
 
     height: 1em;
     width: 9em;
@@ -38,9 +42,9 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-right: -20em;
-   
+    margin-right: -25em;
     border-radius: 0em 2em 0em 0em;
+    margin-bottom: 1em;
 }
 .general {
 
@@ -53,7 +57,7 @@ body {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-
+   
 }
 
 .izquierda {
