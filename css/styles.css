@@ -232,7 +232,7 @@ body {
 .logoImagen {
     height: 5em;
     z-index: 100;
-    margin-top: 5em;
+    margin-top: -1em;
     
 }
 
@@ -291,7 +291,7 @@ body {
     border-top-right-radius: 40%;
     border-bottom-right-radius:40% ;
     transform: rotate(140deg);
-
+    margin-top: 3em;
 
 }
 
@@ -314,6 +314,7 @@ body {
     border-top-right-radius: 40%;
     border-bottom-right-radius:40% ;
     transform: rotate(140deg);
+    margin-top: 3em;
 
 }
 
@@ -398,8 +399,8 @@ body {
 
 .circulocontenedorbotones {
     
-    height: 20em;
-    width: 33em;
+    height: 17em;
+    width: 40em;
     background-color:grey;
     display: flex;
     flex-direction: row;
@@ -407,6 +408,7 @@ body {
     align-items: center;
     border-radius: 50%;
     z-index: 100%;
+    margin-left: 2em;
 
 }
 
@@ -414,7 +416,7 @@ body {
    
     height: 12em;
     width: 16em;
-    background-color: grey;
+    /* background-color: grey; */
     display: flex;
     flex-direction: column;
     justify-content: baseline;
@@ -466,7 +468,7 @@ body {
 
     height: 4em;
     width: 5.3em;
-    background-color: grey;
+    /* background-color: grey; */
 
 }
 
@@ -474,7 +476,7 @@ body {
     
     height: 4em;
     width: 16em;
-    background-color:grey;
+    /* background-color:grey; */
     display: flex;
     flex-direction: row;
     justify-content: baseline;
@@ -486,7 +488,7 @@ body {
 
     height: 4em;
     width: 5.3em;
-    background-color: grey;
+    /* background-color: grey; */
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -508,7 +510,7 @@ body {
 
     height: 4em;
     width: 5.3em;
-    background-color: grey;
+    /* background-color: grey; */
 
 }
 
@@ -516,7 +518,7 @@ body {
 
     height: 4em;
     width: 5.3em;
-    background-color: grey;
+    /* background-color: grey; */
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -539,7 +541,7 @@ body {
     
     height: 4em;
     width: 16em;
-    background-color: grey;
+    /* background-color: grey; */
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -551,7 +553,7 @@ body {
 
     height: 4em;
     width: 16em;
-    background-color: grey;
+    /* background-color: grey; */
 }
 
 .subContenedorBotonoesDownMid {
