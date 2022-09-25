@@ -16,9 +16,35 @@ body {
 
 }
 
+.contenedorl1{ 
+
+    height: 1em;
+    width: 9em;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -25em;
+    margin-bottom: 3em;
+    border-radius: 2em 0em 0em 0em;
+}
+
+
+.contenedorr1 {
+
+    height: 1em;
+    width: 9em;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: -20em;
+   
+    border-radius: 0em 2em 0em 0em;
+}
 .general {
 
-    height: 30em;
+    height: 20em;
     width: 56em;
 
     /* background-color: chartreuse; */
