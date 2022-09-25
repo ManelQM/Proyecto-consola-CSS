@@ -32,14 +32,14 @@ body {
 
 .izquierda {
 
-    height: 30em;
+    height: 27em;
     width: 50em;
     background-color: lightgrey;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    border-radius: 20em 0em 0em 20em;
+     border-radius: 50% 0em 50% 50%; 
 
 }
 
@@ -52,6 +52,7 @@ body {
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    
 
 }
 
@@ -360,14 +361,14 @@ body {
 
 .derecha {
 
-    height: 30em;
+    height: 27em;
     width: 50em;
     background-color: lightgray;
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    
+    border-radius: 0 50% 50% 50%;
 
 }
 
