@@ -39,7 +39,8 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-     border-radius: 50% 0em 50% 50%; 
+     border-radius:  35% 0% 10% 35%; 
+     margin-left: -2em;
 
 }
 
@@ -47,7 +48,7 @@ body {
 
     height: 26em;
     width: 18em;
-    background-color: lightgrey;
+    
     display: flex;
     flex-direction: row;
     justify-content: center;
